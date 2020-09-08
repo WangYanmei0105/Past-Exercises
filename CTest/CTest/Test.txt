@@ -1,0 +1,6 @@
+a = 400-9;
+b = 4^2-2;
+b = b*a;
+a = (2*5)^(1+2)*9+880/2/2/2; 
+c = b*10000+a;
+fprintf("If you are in danger, Please Call %f., %f..\n", c, c)
